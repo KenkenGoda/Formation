@@ -125,4 +125,12 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+# Others
+.DS_Store
+Citation/
+Data/
+Result/
+Figure/
+Memo/
+PyAData/
+others/
